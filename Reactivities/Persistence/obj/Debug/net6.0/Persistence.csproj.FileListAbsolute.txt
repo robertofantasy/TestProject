@@ -1,0 +1,15 @@
+E:\aspCoreProject\TestProject\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\aspCoreProject\TestProject\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\aspCoreProject\TestProject\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\aspCoreProject\TestProject\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+E:\aspCoreProject\TestProject\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\aspCoreProject\TestProject\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll

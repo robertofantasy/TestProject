@@ -1,0 +1,17 @@
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Application.deps.json
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Application.dll
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Application.pdb
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Domain.dll
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Persistence.dll
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Domain.pdb
+E:\aspCoreProject\TestProject\Reactivities\Application\bin\Debug\net6.0\Persistence.pdb
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.dll
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\refint\Application.dll
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\Application.pdb
+E:\aspCoreProject\TestProject\Reactivities\Application\obj\Debug\net6.0\ref\Application.dll
